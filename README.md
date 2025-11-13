@@ -41,5 +41,5 @@ Built using **React + Tailwind CSS**, this project is perfect for learning **sta
 
 ## Contribution
 
-Feel free to fork the repo, suggest improvements and submit pull request.
+Feel free to fork the repo, make improvements and submit pull request.
 
