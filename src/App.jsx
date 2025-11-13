@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div
-        className="w-screen h-screen fixed inset-0 flex flex-wrap  items-center"
+        className="w-screen h-screen fixed inset-0 flex flex-wrap  items-center transition-colors duration-500 ease-in-out"
         style={{ backgroundColor: backgroundColor }}
       >
         <div className=" flex flex-col gap-3 flex-wrap bg-white rounded-full px-4 py-2 fixed top-12 left-10 justify-center items-center  shadow-2xl">
